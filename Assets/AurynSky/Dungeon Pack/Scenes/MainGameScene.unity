@@ -43238,7 +43238,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 26.18
+      value: 26.59
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
       propertyPath: m_LocalRotation.w
@@ -43270,7 +43270,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
       propertyPath: m_Name
-      value: character
+      value: Enemy
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
