@@ -577,7 +577,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4954374104785192, guid: 07428cfeb07f41144b70e1d7145d2ad3, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 11
+=======
+      value: 13
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4954374104785192, guid: 07428cfeb07f41144b70e1d7145d2ad3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -730,7 +734,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 71
+=======
+      value: 79
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1355,7 +1363,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 59
+=======
+      value: 67
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2932,6 +2944,58 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da069710315859f45b006a49bab26fe9, type: 3}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
+=======
+--- !u!1001 &127607345
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_Name
+      value: BrazBlue (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -16.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 18.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 87b4f5e88fc2f854c9313b90039fe33b, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1 &135723068
 GameObject:
   m_ObjectHideFlags: 0
@@ -3487,7 +3551,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c664bfed623a0c248be60050549a3fc6, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 31
+=======
+      value: 38
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c664bfed623a0c248be60050549a3fc6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3673,7 +3741,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cc9aa7f92b832314cb6792844df56284, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 37
+=======
+      value: 45
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cc9aa7f92b832314cb6792844df56284, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4231,7 +4303,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 69
+=======
+      value: 77
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4979,7 +5055,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 61
+=======
+      value: 69
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6018,7 +6098,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4822003977935730, guid: a5a9ac49e2becd846ba2051cd984b584, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 36
+=======
+      value: 44
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4822003977935730, guid: a5a9ac49e2becd846ba2051cd984b584, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6328,7 +6412,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: be117f485d598f642992c830af0b6775, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 48
+=======
+      value: 56
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: be117f485d598f642992c830af0b6775, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6442,7 +6530,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 65
+=======
+      value: 73
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7224,8 +7316,48 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
   m_Size: {x: 2.0000005, y: 1.9999998, z: 2.0000007}
   m_Center: {x: -0.000000059604645, y: 0.007423997, z: 0.00000011920929}
+=======
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4707020379641874, guid: 5c8d51cd86203bd4ab21cf3caae31147, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707020379641874, guid: 5c8d51cd86203bd4ab21cf3caae31147, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -24.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707020379641874, guid: 5c8d51cd86203bd4ab21cf3caae31147, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707020379641874, guid: 5c8d51cd86203bd4ab21cf3caae31147, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 25.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707020379641874, guid: 5c8d51cd86203bd4ab21cf3caae31147, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707020379641874, guid: 5c8d51cd86203bd4ab21cf3caae31147, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707020379641874, guid: 5c8d51cd86203bd4ab21cf3caae31147, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707020379641874, guid: 5c8d51cd86203bd4ab21cf3caae31147, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5c8d51cd86203bd4ab21cf3caae31147, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &253161742
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7910,7 +8042,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4961210537442604, guid: da069710315859f45b006a49bab26fe9, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4961210537442604, guid: da069710315859f45b006a49bab26fe9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9976,7 +10108,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 86
+=======
+      value: 101
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10181,7 +10317,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 89
+=======
+      value: 104
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10582,6 +10722,66 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da069710315859f45b006a49bab26fe9, type: 3}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
+=======
+--- !u!1001 &376007781
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1248676613872148, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_Name
+      value: ChestCompleteD (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_RootOrder
+      value: 99
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -22.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 30.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &377983457
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10996,7 +11196,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ada6e50a1265db04a9cbc25cc77e0e3a, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 23
+=======
+      value: 26
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ada6e50a1265db04a9cbc25cc77e0e3a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12470,7 +12674,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cc9aa7f92b832314cb6792844df56284, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 50
+=======
+      value: 58
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cc9aa7f92b832314cb6792844df56284, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12665,7 +12873,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 33
+=======
+      value: 40
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_LocalScale.x
@@ -12870,7 +13082,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 84
+=======
+      value: 98
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13240,7 +13456,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 57
+=======
+      value: 65
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13384,6 +13604,50 @@ Transform:
   m_Father: {fileID: 1127619772}
   m_RootOrder: 91
   m_LocalEulerAnglesHint: {x: 90.00001, y: 0, z: 0}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
+=======
+--- !u!1001 &488352754
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.3399999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 23.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071079
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &491940755
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13442,6 +13706,50 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4961210537442604, guid: da069710315859f45b006a49bab26fe9, type: 3}
   m_PrefabInstance: {fileID: 1793651177}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
+=======
+--- !u!1001 &497343942
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 30.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965568863557946, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a503d6f3d2ee47148a09639f019b31c5, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &497345720
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13754,7 +14062,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 41
+=======
+      value: 49
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_LocalScale.x
@@ -13823,7 +14135,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 70
+=======
+      value: 78
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14018,7 +14334,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 20
+=======
+      value: 23
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14301,7 +14621,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 54
+=======
+      value: 62
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14418,7 +14742,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 62
+=======
+      value: 70
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15044,6 +15372,54 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: bef590b5f83718440bddad527c144253, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: be117f485d598f642992c830af0b6775, type: 3}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
+=======
+--- !u!1001 &564152861
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1923153190385852, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_Name
+      value: CoinD (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_RootOrder
+      value: 88
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -26.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 38.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &566561954
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15057,7 +15433,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 76
+=======
+      value: 84
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15330,7 +15710,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 60
+=======
+      value: 68
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16539,7 +16923,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 83
+=======
+      value: 97
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -18976,7 +19364,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4277183239899470, guid: c768072ffa1531945b297d97ec55f771, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 4277183239899470, guid: c768072ffa1531945b297d97ec55f771, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20186,7 +20574,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 34
+=======
+      value: 41
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_LocalScale.x
@@ -20260,7 +20652,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 67
+=======
+      value: 75
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20543,7 +20939,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 21
+=======
+      value: 24
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21360,7 +21760,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 90
+=======
+      value: 105
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21490,7 +21894,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4680251571939812, guid: c44079fbf7091444bb884a0ccf7d84ac, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 45
+=======
+      value: 53
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4680251571939812, guid: c44079fbf7091444bb884a0ccf7d84ac, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22165,7 +22573,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20384cd36806a14409fad6ab78b9efed, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 19
+=======
+      value: 21
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 20384cd36806a14409fad6ab78b9efed, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22746,6 +23158,50 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da069710315859f45b006a49bab26fe9, type: 3}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
+=======
+--- !u!1001 &864777378
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &875563703
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23275,7 +23731,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4051606177632086, guid: d793708be4ee5be40af341a5bdfc90dd, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 24
+=======
+      value: 27
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4051606177632086, guid: d793708be4ee5be40af341a5bdfc90dd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23549,7 +24009,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 91
+=======
+      value: 106
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23798,7 +24262,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 87
+=======
+      value: 102
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_LocalPosition.x
@@ -24027,7 +24495,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 43
+=======
+      value: 51
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_LocalScale.x
@@ -24912,7 +25384,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 40
+=======
+      value: 48
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_LocalScale.x
@@ -25399,7 +25875,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 77
+=======
+      value: 85
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25584,7 +26064,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 22
+=======
+      value: 25
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27511,7 +27995,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4961210537442604, guid: da069710315859f45b006a49bab26fe9, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 92
+=======
+      value: 107
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4961210537442604, guid: da069710315859f45b006a49bab26fe9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27604,6 +28092,54 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da069710315859f45b006a49bab26fe9, type: 3}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
+=======
+--- !u!1001 &1050835786
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1661269787379778, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_Name
+      value: SwingTrapD (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_RootOrder
+      value: 93
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -22.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 23.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000029802318
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &1051288852
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27968,7 +28504,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4361159585270464, guid: 9495754c709bff341a2836b50fd2469e, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 44
+=======
+      value: 52
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4361159585270464, guid: 9495754c709bff341a2836b50fd2469e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -28882,7 +29422,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 73
+=======
+      value: 81
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -28918,6 +29462,74 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: bef590b5f83718440bddad527c144253, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
+=======
+--- !u!1001 &1117582987
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_RootOrder
+      value: 92
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -22.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 25.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000029802318
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4062129401091732, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000029802318
+      objectReference: {fileID: 0}
+    - target: {fileID: 4062129401091732, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4062129401091732, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4062129401091732, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4062129401091732, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4062129401091732, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &1118686870
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28931,7 +29543,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 42
+=======
+      value: 50
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_LocalScale.x
@@ -29274,7 +29890,11 @@ Transform:
   - {fileID: 1940059741}
   - {fileID: 2081038104}
   m_Father: {fileID: 0}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
   m_RootOrder: 96
+=======
+  m_RootOrder: 113
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1133705514
 PrefabInstance:
@@ -29676,7 +30296,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1f833014bcf68934dbd8a52d52c49ebc, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 25
+=======
+      value: 32
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1f833014bcf68934dbd8a52d52c49ebc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30481,7 +31105,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4275891945480550, guid: a6203d28eee940e46805d17adbb401e2, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 49
+=======
+      value: 57
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4275891945480550, guid: a6203d28eee940e46805d17adbb401e2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30768,7 +31396,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 58
+=======
+      value: 66
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -31741,7 +32373,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 81
+=======
+      value: 95
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32794,7 +33430,11 @@ Transform:
   - {fileID: 1898963740}
   - {fileID: 1999542868}
   m_Father: {fileID: 0}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
   m_RootOrder: 18
+=======
+  m_RootOrder: 20
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: -90.00001, z: 0}
 --- !u!1001 &1265507268
 PrefabInstance:
@@ -33273,7 +33913,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 85
+=======
+      value: 100
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_LocalPosition.x
@@ -33318,7 +33962,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 72
+=======
+      value: 80
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -33990,7 +34638,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 66
+=======
+      value: 74
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -34934,8 +35586,52 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
   m_Size: {x: 2.0000005, y: 1.9999998, z: 2.0000007}
   m_Center: {x: -0.000000059604645, y: 0.00742352, z: 0.000002026558}
+=======
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1923153190385852, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_Name
+      value: CoinD (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_RootOrder
+      value: 86
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -18.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!4 &1338998916 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4800430834737108, guid: e10f1ca0e38945f4f8cce4749e44d28d, type: 3}
@@ -35425,6 +36121,58 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d84761ee8e7af9a4babafc0657772d0f, type: 3}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
+=======
+--- !u!1001 &1367371127
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_Name
+      value: Braz (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 18.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bef590b5f83718440bddad527c144253, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &1369204119
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35642,8 +36390,52 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
   m_Size: {x: 2.0000005, y: 1.9999998, z: 2.0000007}
   m_Center: {x: -0.000003874302, y: 0.0074230433, z: 0.0000039339066}
+=======
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1989761576828204, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_Name
+      value: CageComplete (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_RootOrder
+      value: 110
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 23.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071079
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &1372319221
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36165,7 +36957,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a93002532b627ed4f9f3d9c378d1e52c, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 79
+=======
+      value: 90
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a93002532b627ed4f9f3d9c378d1e52c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -37047,7 +37843,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a93002532b627ed4f9f3d9c378d1e52c, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 78
+=======
+      value: 89
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a93002532b627ed4f9f3d9c378d1e52c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -37478,8 +38278,56 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
   m_Size: {x: 2.0000005, y: 1.9999998, z: 2.0000007}
   m_Center: {x: -0.000000059604645, y: 0.0074225366, z: 0.0000039339066}
+=======
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_Name
+      value: BrazBlue
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 26.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 87b4f5e88fc2f854c9313b90039fe33b, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &1444708992
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38129,7 +38977,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a93002532b627ed4f9f3d9c378d1e52c, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 80
+=======
+      value: 91
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a93002532b627ed4f9f3d9c378d1e52c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -38325,8 +39177,58 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 62.904003, y: -203.13399, z: 18.666}
+=======
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 62.904003, y: -203.13399, z: 18.666}
+--- !u!1001 &1466637510
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1923153190385852, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_Name
+      value: CoinD (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_RootOrder
+      value: 87
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 38.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603969751776052, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de24e9dac65bddc40bc8f81e2245a72c, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!4 &1468685768 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4961210537442604, guid: da069710315859f45b006a49bab26fe9, type: 3}
@@ -39188,7 +40090,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 56
+=======
+      value: 64
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -39479,7 +40385,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ada6e50a1265db04a9cbc25cc77e0e3a, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 93
+=======
+      value: 108
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ada6e50a1265db04a9cbc25cc77e0e3a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -39936,7 +40846,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 52
+=======
+      value: 60
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -39981,7 +40895,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4486018891411640, guid: 8a61b0f9c401a88499c56369f7d4b194, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 68
+=======
+      value: 76
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4486018891411640, guid: 8a61b0f9c401a88499c56369f7d4b194, type: 3}
       propertyPath: m_LocalPosition.x
@@ -41013,7 +41931,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 88
+=======
+      value: 103
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4753028538822310, guid: b58fdf950bf832348af4bfaa2fd9f743, type: 3}
       propertyPath: m_LocalPosition.x
@@ -41059,7 +41981,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4283613862840372, guid: 340abaf0ec65aa642afbe22e18b0e31f, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 17
+=======
+      value: 19
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4283613862840372, guid: 340abaf0ec65aa642afbe22e18b0e31f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -41833,7 +42759,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 74
+=======
+      value: 82
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -42909,7 +43839,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4663620794505304, guid: 6510b78b29817ba419712695865372be, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 14
+=======
+      value: 16
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4663620794505304, guid: 6510b78b29817ba419712695865372be, type: 3}
       propertyPath: m_LocalScale.x
@@ -42966,7 +43900,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 63
+=======
+      value: 71
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -43468,7 +44406,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4881404980133362, guid: a1644dd8880d0594d970514153034e86, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 94
+=======
+      value: 109
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4881404980133362, guid: a1644dd8880d0594d970514153034e86, type: 3}
       propertyPath: m_LocalPosition.x
@@ -43728,7 +44670,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 29
+=======
+      value: 36
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -43993,7 +44939,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4585551182943768, guid: d84761ee8e7af9a4babafc0657772d0f, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4585551182943768, guid: d84761ee8e7af9a4babafc0657772d0f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -44038,7 +44984,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c664bfed623a0c248be60050549a3fc6, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 30
+=======
+      value: 37
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c664bfed623a0c248be60050549a3fc6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -44953,7 +45903,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 55
+=======
+      value: 63
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -45064,7 +46018,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 53
+=======
+      value: 61
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -45818,7 +46776,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b9236b4abd7c4514ea211709ab40f9c9, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 95
+=======
+      value: 112
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b9236b4abd7c4514ea211709ab40f9c9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -46446,7 +47408,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4733262836056188, guid: a735d73378e828641b3e7441c8fcfa09, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 26
+=======
+      value: 33
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4733262836056188, guid: a735d73378e828641b3e7441c8fcfa09, type: 3}
       propertyPath: m_LocalPosition.x
@@ -46487,7 +47453,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4150804951807218, guid: 0007f0f806b653e4883017758b5175ca, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 15
+=======
+      value: 17
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4150804951807218, guid: 0007f0f806b653e4883017758b5175ca, type: 3}
       propertyPath: m_LocalPosition.x
@@ -46721,7 +47691,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ada6e50a1265db04a9cbc25cc77e0e3a, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 38
+=======
+      value: 46
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ada6e50a1265db04a9cbc25cc77e0e3a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -46886,7 +47860,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 28
+=======
+      value: 35
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -46939,7 +47917,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 51
+=======
+      value: 59
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -47619,7 +48601,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 400000, guid: 1f833014bcf68934dbd8a52d52c49ebc, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 13
+=======
+      value: 15
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1f833014bcf68934dbd8a52d52c49ebc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -47948,6 +48934,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4167796744804570, guid: 505ad28b849b40247ac593fc3686dd16, type: 3}
   m_PrefabInstance: {fileID: 1815027735}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1 &1815027737 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1986053002286778, guid: 505ad28b849b40247ac593fc3686dd16, type: 3}
@@ -47955,10 +48942,77 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!65 &1815027738
 BoxCollider:
+=======
+--- !u!1001 &1817438012
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -38.16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.315
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 26.59
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+      propertyPath: m_Name
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+--- !u!1 &1817438013 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: ff9b27dce533b435ebba6ff0ff74beba, type: 3}
+  m_PrefabInstance: {fileID: 1817438012}
+  m_PrefabAsset: {fileID: 0}
+--- !u!54 &1817438014
+Rigidbody:
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
   m_GameObject: {fileID: 1815027737}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -47966,6 +49020,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.0000005, y: 1.9999998, z: 2.0000007}
   m_Center: {x: -0.0000019669533, y: 0.0074230134, z: -0.000003695488}
+=======
+  m_GameObject: {fileID: 1817438013}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &1817769363
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -48115,7 +49181,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 82
+=======
+      value: 96
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -48817,7 +49887,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4341673273649340, guid: c88ac593385d6cd4999b920f228a573f, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 10
+=======
+      value: 12
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 4341673273649340, guid: c88ac593385d6cd4999b920f228a573f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -48993,8 +50067,52 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
   m_Size: {x: 2.0000005, y: 1.9999998, z: 2.0000007}
   m_Center: {x: 0.0000037550926, y: 0.00742206, z: 0.000002026558}
+=======
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1661269787379778, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_Name
+      value: SwingTrapD (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_RootOrder
+      value: 94
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -22.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 21.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000029802318
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058104849361498, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ea052a89f68cccb4bb2bac3cdd6ac57c, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!4 &1879942175 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: f0905fb8a8ee77246b67b80417424860, type: 3}
@@ -50871,7 +51989,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 47
+=======
+      value: 55
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -51898,6 +53020,50 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e10f1ca0e38945f4f8cce4749e44d28d, type: 3}
+--- !u!1 &2014484279
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2014484281}
+  - component: {fileID: 2014484280}
+  m_Layer: 0
+  m_Name: SpawnManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2014484280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014484279}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 757b98bdae1ee414287d11de6fa0f709, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &2014484281
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014484279}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -38.18025, y: 6.31, z: 29.790527}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 114
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2020141273
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -51907,7 +53073,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 9
+=======
+      value: 11
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -52009,7 +53179,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 75
+=======
+      value: 83
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -52312,7 +53486,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 32
+=======
+      value: 39
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_LocalScale.x
@@ -52534,6 +53712,54 @@ Transform:
   m_Father: {fileID: 1127619772}
   m_RootOrder: 106
   m_LocalEulerAnglesHint: {x: 90.00001, y: 0, z: 0}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
+=======
+--- !u!1001 &2032424731
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1989761576828204, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_Name
+      value: CageComplete (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_RootOrder
+      value: 111
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 23.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071079
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586931456325208, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3bfc6ea068c5de043b3245865ec6ed69, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &2034704121
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -53183,7 +54409,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 400000, guid: ada6e50a1265db04a9cbc25cc77e0e3a, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 12
+=======
+      value: 14
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ada6e50a1265db04a9cbc25cc77e0e3a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -54744,7 +55974,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 39
+=======
+      value: 47
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_LocalPosition.x
@@ -55232,7 +56466,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 64
+=======
+      value: 72
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5a6ea104e6b590c45b6878cce65aa633, type: 3}
       propertyPath: m_LocalPosition.x
@@ -55547,7 +56785,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 27
+=======
+      value: 34
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -55587,6 +56829,58 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: bef590b5f83718440bddad527c144253, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
+=======
+--- !u!1001 &2135292385
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_Name
+      value: Braz (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 30.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bef590b5f83718440bddad527c144253, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e474ac24e4a142743b1d193bce55e295, type: 3}
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
 --- !u!1001 &2135376261
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -55721,7 +57015,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 35
+=======
+      value: 42
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1d659279c108dd42a0daf60d45ab077, type: 3}
       propertyPath: m_LocalScale.x
@@ -56072,7 +57370,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD:Assets/Dungeon Pack/Scenes/MainGameScene.unity
       value: 46
+=======
+      value: 54
+>>>>>>> Spawning:Assets/AurynSky/Dungeon Pack/Scenes/MainGameScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 807ebce0ec93c9544ab0b281fff1cdab, type: 3}
       propertyPath: m_LocalPosition.x
