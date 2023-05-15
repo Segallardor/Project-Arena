@@ -134,7 +134,7 @@ public partial class @ThirdPersonActionsAssets : IInputActionCollection2, IDispo
                 {
                     ""name"": """",
                     ""id"": ""2e04719a-b80c-4fa7-abf9-0071816d1132"",
-                    ""path"": ""<Keyboard>/ctrl"",
+                    ""path"": ""<Mouse>/rightButton"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
