@@ -3,7 +3,22 @@ guid: 76c7a690ea4ee4568b20e52c4a031ad2
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: goblin_diffuse
+    second: {fileID: 2800000, guid: c0ca50f4be5af43688539d057c39cec0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: goblin_normal
+    second: {fileID: 2800000, guid: 63d77970eba5f4d0c89aa8afeb844e2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: goblin_specular
+    second: {fileID: 2800000, guid: 4b3c483ab0ef6412ca50e284d80e788d, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -75,7 +90,8 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
+  referencedClips:
+  - 7fca43b05b8e1429888a12c99db42668
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
