@@ -1214,8 +1214,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverText: {fileID: 596018217}
-  restartButton: {fileID: 0}
-  isGameActive: 0
+  restartButton: {fileID: 920398840}
+  isGameActive: 1
   titleScreen: {fileID: 1401960042}
 --- !u!4 &46812920
 Transform:
