@@ -5,7 +5,7 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
 
-    public float speed;
+    [SerializeField] private float speed = 2f;
     private Rigidbody enemyRb;
     private GameObject player;
 
@@ -20,5 +20,7 @@ public class Enemy : MonoBehaviour
     void Update()
     {
         enemyRb.AddForce((player.transform.position - transform.position).normalized * speed);
+
+        transform.Translate(Vector3.forward * Time.deltaTime * Input.GetAxis("Vertical") * speed);
     }
 }
